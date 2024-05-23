@@ -1,0 +1,20 @@
+[submodule "eigen"]
+	path = eigen
+	url = https://gitlab.com/libeigen/eigen.git
+	branch = 3.3
+[submodule "sophus"]
+	path = sophus
+	url = https://github.com/stonier/sophus.git
+	branch = release/1.3.x
+[submodule "ecl_tools"]
+	path = ecl_tools
+	url = https://github.com/stonier/ecl_tools.git
+	branch = release/1.0.x
+[submodule "ecl_lite"]
+	path = ecl_lite
+	url = https://github.com/stonier/ecl_lite.git
+	branch = release/1.2.x
+[submodule "ecl_core"]
+	path = ecl_core
+	url = https://github.com/stonier/ecl_core.git
+	branch = release/1.2.x
